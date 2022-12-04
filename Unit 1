@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Change the <title> from "Page Title" to "Hello World" -->
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
+<body>
+    <!-- Create a header element  -->
+    <header>
+        <h1>Sean Kimbrough</h1>
+        <div>
+        </div>
+    </header>
+        <h2>Unit 1 Assignment</h2>
+           <img "https://thumbs.dreamstime.com/b/sunset-over-ocean-colorful-maldives-67872960.jpg"
+         <h3>Fun Facts</h3>
+           <li>I have attended two presidental inaugurations for Barack Obama</li>
+           <li>I was selected to give the commmencement speech at graduation</li>
+           <li>I cannot tread water</li>
+    <div>
+    </ul>
+    <p> "You miss 100% of the shots you don't take" Wayne Gretzky</p>
+</body>
+</html>
